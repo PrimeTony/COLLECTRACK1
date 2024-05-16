@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799576588197",
+    "project_id": "collectrack-36b52",
+    "storage_bucket": "collectrack-36b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799576588197:android:e7d8389bb37464231f724c",
+        "android_client_info": {
+          "package_name": "com.example.collectrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWAf28Rc5miWkPC769nWfw-1YF92fSos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

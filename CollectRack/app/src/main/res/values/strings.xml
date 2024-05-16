@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CollectRack</string>
+    <string name="background_image">Logo</string>
+    <string name="login">Login</string>
+    <string name="CreateAccount">Create Account</string>
+    <string name="btn_Register">Register</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="Login_here">Login here</string>
+    <string name="btn_login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="Profile">Profile</string>
+</resources>
